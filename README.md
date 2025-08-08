@@ -35,6 +35,21 @@ A curated list of awesome plugins for the PumpkinMC minecraft server software.
 |--------|-------------|------------|--------|
 | [CommandLimiter](https://github.com/PumpkinPlugins/CommandLimiter) | A very simple Pumpkin plugin that allows server admins to limit the use of certain commands to select players. | PumpkinPlugins | ⚠️ Will be discontinued |
 
+## Utility
+
+| Plugin | Description | Maintainer | Status |
+|--------|-------------|------------|--------|
+| [TabTPS](https://github.com/topi-banana/pumpkin-tabtps) | A lightweight plugin that implements a display of current TPS and MSPT values below the TabList. | [topi-banana](https://github.com/topi-banana) | ? |
+| [ChatColor](https://github.com/tangjuyo/Chatcolor) | A plugin that adds the ability to set name- and chat color. This will also provide an API for use inside other plugins, once the feature becomes stable on the Pumpkin main branch. | [tangjuyo](https://github.com/tangjuyo) | ✅ Maintained |
+| [PumpkinEssentials](https://github.com/tangjuyo/PumpkinEssentials) | Adds a multitude of useful commands that are usually part of any server. | [tangjuyo](https://github.com/tangjuyo) | ✅ Maintained |
+| [FlyCommand](https://github.com/CuzImClicks/Pumpkin_FlyCommand) | This simply adds the /fly command | [CuzImClicks](https://github.com/CuzImClicks) | ? |
+
+## Miscellaneous
+
+| Plugin | Description | Maintainer | Status |
+|--------|-------------|------------|--------|
+| [PumpkinSoup](https://github.com/tn-lorenz/PumpkinSoup) | A plugin that adds instant soup-healing, -feeding and damagers. This will be expanded to provide more features and an API. | [tn-lorenz](https://github.com/tn-lorenz) | ✅ Maintained |
+
 ## How to Add Your Plugin
 
 If you've developed a plugin for PumpkinMC and would like to have it featured in this list, please reach out to @vyPal420 on Discord: [PumpkinPlugins](https://discord.gg/NbJmCr3hdJ) or [PumpkinMC](https://discord.gg/Y4yMjpZkcj).
