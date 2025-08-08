@@ -9,6 +9,8 @@ A curated list of awesome plugins for the PumpkinMC minecraft server software.
 - [Development Plugins](#development-plugins)
 - [World Management](#world-management)
 - [Administration](#administration)
+- [Utility](#utility)
+- [Miscellaneous](#miscellaneous)
 - [How to Add Your Plugin](#how-to-add-your-plugin)
 
 ## Official Plugins
