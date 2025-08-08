@@ -40,16 +40,14 @@ A curated list of awesome plugins for the PumpkinMC minecraft server software.
 | Plugin | Description | Maintainer | Status |
 |--------|-------------|------------|--------|
 | [TabTPS](https://github.com/topi-banana/pumpkin-tabtps) | A lightweight plugin that implements a display of current TPS and MSPT values below the TabList. | [topi-banana](https://github.com/topi-banana) | ? |
-|--------|-------------|------------|--------|
 | [ChatColor](https://github.com/tangjuyo/Chatcolor) | A plugin that adds the ability to set name- and chat color. This will also provide an API for use inside other plugins, once the feature becomes stable on the Pumpkin main branch. | [tangjuyo](https://github.com/tangjuyo) | ? |
-|--------|-------------|------------|--------|
 | [FlyCommand](https://github.com/CuzImClicks/Pumpkin_FlyCommand) | This simply adds the /fly command | [CuzImClicks](https://github.com/CuzImClicks) | ? |
 
 ## Miscellaneous
 
 | Plugin | Description | Maintainer | Status |
 |--------|-------------|------------|--------|
-| [PumpkinSoup]([https://github.com/topi-banana/pumpkin-tabtps](https://github.com/tn-lorenz/PumpkinSoup)) | A plugin that adds instant soup-healing and feeding and damagers. | [tn-lorenz](https://github.com/tn-lorenz) | ? |
+| [PumpkinSoup](https://github.com/tn-lorenz/PumpkinSoup) | A plugin that adds instant soup-healing and feeding and damagers. | [tn-lorenz](https://github.com/tn-lorenz) | ? |
 
 ## How to Add Your Plugin
 
