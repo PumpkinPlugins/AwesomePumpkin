@@ -9,6 +9,7 @@ A curated list of awesome plugins for the PumpkinMC minecraft server software.
 - [Development Plugins](#development-plugins)
 - [World Management](#world-management)
 - [Administration](#administration)
+- [Gameplay](#gameplay)
 - [Utility](#utility)
 - [Miscellaneous](#miscellaneous)
 - [How to Add Your Plugin](#how-to-add-your-plugin)
@@ -17,7 +18,7 @@ A curated list of awesome plugins for the PumpkinMC minecraft server software.
 
 | Plugin | Description | Maintainer | Status |
 |--------|-------------|------------|--------|
-| [Hello-Pumpkin](https://github.com/PumpkinPlugins/Hello-Pumpkin) | An Example Plugin for the Pumpkin Server Software. This is the official template and the result of the official getting started guide for plugin development. | PumpkinPlugins | ✅ Maintained |
+| [Hello-Pumpkin](https://github.com/PumpkinPlugins/Hello-Pumpkin) | An Example Plugin for the Pumpkin Server Software. This is the official template and the result of the official getting started guide. | PumpkinPlugins | ✅ Maintained |
 
 ## Development Plugins
 
@@ -29,20 +30,27 @@ A curated list of awesome plugins for the PumpkinMC minecraft server software.
 
 | Plugin | Description | Maintainer | Status |
 |--------|-------------|------------|--------|
-| [PumpkinVerse](https://github.com/PumpkinPlugins/PumpkinVerse) | A multi-world plugin for Pumpkin inspired by Multiverse. Currently functional but lacks teleporting between worlds functionality due to limitations in the core Pumpkin project. | PumpkinPlugins | ⚠️ Partially Functional |
+| [PumpkinVerse](https://github.com/PumpkinPlugins/PumpkinVerse) | A multi-world plugin for Pumpkin inspired by Multiverse. Currently functional but lacks teleporting between worlds functionality. | PumpkinPlugins | 🔨 In Development |
+| [Pumpkin-worldtools](https://github.com/theeagler1234/Pumpkin-worldtools) | WorldEdit- and WorldGuard-style tools for Pumpkin, including region selection, block editing, and protection. | [theeagler1234](https://github.com/theeagler1234) | ✅ Maintained |
 
 ## Administration
 
 | Plugin | Description | Maintainer | Status |
 |--------|-------------|------------|--------|
-| [CommandLimiter](https://github.com/PumpkinPlugins/CommandLimiter) | A very simple Pumpkin plugin that allows server admins to limit the use of certain commands to select players. | PumpkinPlugins | ⚠️ Will be discontinued |
+| [CommandLimiter](https://github.com/PumpkinPlugins/CommandLimiter) | A very simple Pumpkin plugin that allows server admins to limit the use of certain commands to select players. | PumpkinPlugins | ✅ Maintained |
+
+## Gameplay
+
+| Plugin | Description | Maintainer | Status |
+|--------|-------------|------------|--------|
 
 ## Utility
 
 | Plugin | Description | Maintainer | Status |
 |--------|-------------|------------|--------|
-| [TabTPS](https://github.com/topi-banana/pumpkin-tabtps) | A lightweight plugin that implements a display of current TPS and MSPT values below the TabList. | [topi-banana](https://github.com/topi-banana) | ? |
-| [ChatColor](https://github.com/tangjuyo/Chatcolor) | A plugin that adds the ability to set name- and chat color. This will also provide an API for use inside other plugins, once the feature becomes stable on the Pumpkin main branch. | [tangjuyo](https://github.com/tangjuyo) | ✅ Maintained |
+| [Pumpkin NPCs](https://github.com/theeagler1234/pumpkin-NPCs) | Adds named, clickable villager stand-ins that run configured commands when players interact with them. | [theeagler1234](https://github.com/theeagler1234) | ✅ Maintained |
+| [TabTPS](https://github.com/topi-banana/pumpkin-tabtps) | A lightweight plugin that implements a display of current TPS and MSPT values below the TabList. | [topi-banana](https://github.com/topi-banana) | ✅ Maintained |
+| [ChatColor](https://github.com/tangjuyo/Chatcolor) | A plugin that adds the ability to set name- and chat color. This will also provide an API for use inside other plugins, once the feature becomes available. | [tangjuyo](https://github.com/tangjuyo) | 🔨 In Development |
 | [PumpkinEssentials](https://github.com/tangjuyo/PumpkinEssentials) | Adds a multitude of useful commands that are usually part of any server. | [tangjuyo](https://github.com/tangjuyo) | ✅ Maintained |
 | [FlyCommand](https://github.com/CuzImClicks/Pumpkin_FlyCommand) | This simply adds the /fly command | [CuzImClicks](https://github.com/CuzImClicks) | ? |
 
@@ -50,7 +58,7 @@ A curated list of awesome plugins for the PumpkinMC minecraft server software.
 
 | Plugin | Description | Maintainer | Status |
 |--------|-------------|------------|--------|
-| [PumpkinSoup](https://github.com/tn-lorenz/PumpkinSoup) | A plugin that adds instant soup-healing, -feeding and damagers. This will be expanded to provide more features and an API. | [tn-lorenz](https://github.com/tn-lorenz) | ✅ Maintained |
+| [PumpkinSoup](https://github.com/tn-lorenz/PumpkinSoup) | A plugin that adds instant soup-healing, -feeding and damagers. This will be expanded to provide more features and an API. | [tn-lorenz](https://github.com/tn-lorenz) | 🔨 In Development |
 
 ## How to Add Your Plugin
 
