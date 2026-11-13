@@ -43,12 +43,12 @@ A curated list of awesome plugins for the PumpkinMC minecraft server software.
 
 | Plugin | Description | Maintainer | Status |
 |--------|-------------|------------|--------|
-| [Pumpkin NPCs](https://github.com/theeagler1234/pumpkin-NPCs) | Adds named, clickable villager stand-ins that run configured commands when players interact with them. | [theeagler1234](https://github.com/theeagler1234) | ✅ Maintained |
 
 ## Utility
 
 | Plugin | Description | Maintainer | Status |
 |--------|-------------|------------|--------|
+| [Pumpkin NPCs](https://github.com/theeagler1234/pumpkin-NPCs) | Adds named, clickable villager stand-ins that run configured commands when players interact with them. | [theeagler1234](https://github.com/theeagler1234) | ✅ Maintained |
 | [TabTPS](https://github.com/topi-banana/pumpkin-tabtps) | A lightweight plugin that implements a display of current TPS and MSPT values below the TabList. | [topi-banana](https://github.com/topi-banana) | ✅ Maintained |
 | [ChatColor](https://github.com/tangjuyo/Chatcolor) | A plugin that adds the ability to set name- and chat color. This will also provide an API for use inside other plugins, once the feature becomes available. | [tangjuyo](https://github.com/tangjuyo) | 🔨 In Development |
 | [PumpkinEssentials](https://github.com/tangjuyo/PumpkinEssentials) | Adds a multitude of useful commands that are usually part of any server. | [tangjuyo](https://github.com/tangjuyo) | ✅ Maintained |
